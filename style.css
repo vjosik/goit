@@ -1,0 +1,8 @@
+.main__block{
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+}
+.flex__block{
+    border: 1px solid black;
+}
